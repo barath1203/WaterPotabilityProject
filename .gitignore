@@ -1,0 +1,85 @@
+# ======================================================
+# 🌊 Eco Water Potability Project - Streamlit + ML
+# Author: Barath, Jaya Surya, Vaira Prakash, Saravana Goutham
+# ======================================================
+
+# -------------------------
+# 🐍 Python
+# -------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# -------------------------
+# 💾 Virtual Environments
+# -------------------------
+venv/
+env/
+.venv/
+ENV/
+*.egg-info/
+*.egg
+*.whl
+
+# -------------------------
+# 📓 Jupyter / Colab
+# -------------------------
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*.nbconvert.ipynb
+
+# -------------------------
+# 💻 IDE / Editor Files
+# -------------------------
+.vscode/
+.idea/
+
+# -------------------------
+# 🗂 System Files
+# -------------------------
+.DS_Store
+Thumbs.db
+
+# -------------------------
+# 🧾 Logs & Temporary Files
+# -------------------------
+*.log
+*.tmp
+*.bak
+
+# -------------------------
+# 🌊 Streamlit Config
+# -------------------------
+.streamlit/secrets.toml
+.streamlit/config.toml
+
+# -------------------------
+# 🧠 Machine Learning Models
+# Keep main model (.pkl) so app works on Streamlit Cloud
+# -------------------------
+models/
+*.sav
+*.joblib
+*.h5
+# DO NOT IGNORE .pkl (e.g., water_potability_model.pkl)
+
+# -------------------------
+# 🧮 Cache & Temp Data
+# -------------------------
+.cache/
+*.zip
+
+# -------------------------
+# 🔐 Environment Variables
+# -------------------------
+.env
+*.env
+
+# -------------------------
+# 📊 Data Folders
+# Keep small sample data; ignore large/raw/temp
+# -------------------------
+data/raw/
+data/temp/
+outputs/
