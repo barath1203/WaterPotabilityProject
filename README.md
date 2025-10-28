@@ -5,9 +5,9 @@ Built with **Python + Streamlit**, and trained on the [Water Potability Dataset]
 
 ---
 
-## 🌍 Live App (Optional if Deployed)
-If deployed via Streamlit Cloud or a server, add your live link here:
-👉 [**Click to Open the App**](https://your-streamlit-app-link)
+## 🌍 Live App
+Deployed via Streamlit Cloud :
+👉 [**Click to Open the App**](https://waterpotabilityproject-t36paphdyrp6xm8357tzyn.streamlit.app/Predict)
 
 ---
 
@@ -59,7 +59,7 @@ Trained in `notebooks/Copy_of_Untitled53.ipynb`, and exported as `water_potabili
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/WaterPotabilityProject.git
+git clone https://github.com/barath1203/WaterPotabilityProject.git
 cd WaterPotabilityProject
 
 2)Install Dependencies
