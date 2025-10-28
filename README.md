@@ -43,7 +43,7 @@ Deployed via Streamlit Cloud :
 - **Accuracy:** ~65%  
 - **ROC-AUC:** 0.67  
 
-Trained in `notebooks/Copy_of_Untitled53.ipynb`, and exported as `water_potability_model.pkl`.
+
 
 ---
 
